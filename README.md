@@ -120,18 +120,27 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* 📧 Email: [cchaithanya252@gmail.com](mailto:cchaithanya252@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/chaithanya06/)
-* 💻 GitHub: [https://github.com/your-github-username](https://github.com/chaithanyakumarsadu)
-* 🔐 TryHackMe: [https://tryhackme.com/p/your-tryhackme-username](https://tryhackme.com/p/cchaithanya252)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-cchaithanya252%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:cchaithanya252@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-chaithanyakumarsadu-black?style=for-the-badge\&logo=github)](https://github.com/chaithanyakumarsadu)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+
+</div>
 
 ---
 
 ## 🏆 Cybersecurity Profiles
 
-* 🔐 TryHackMe — Top 15% Ranking | 10 Badges Earned
-* 💻 GitHub — Cybersecurity & Data Analytics Projects
+| Platform         | Achievement                                                                       |
+| ---------------- | --------------------------------------------------------------------------------- |
+| 🔐 **TryHackMe** | 🥇 Top 15% Ranking • 🎖️ 10 Badges Earned • 🚀 50+ Rooms Solved                   |
+| 💻 **GitHub**    | 📂 Cybersecurity & Data Analytics Projects • 🌱 Continuous Learning & Development |
+
+> **"Security is a journey of continuous learning, testing, and improvement."**
+
 
 
