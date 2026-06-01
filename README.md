@@ -119,6 +119,42 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 * Earned 10 TryHackMe badges
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chaithanyakumarsadu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyakumarsadu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaithanyakumarsadu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaithanyakumarsadu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Chaithanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaithanyakumarsadu\&theme=tokyo-night)](https://github.com/chaithanyakumarsadu)
+
+---
+
+## 🚀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaithanyakumarsadu&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
