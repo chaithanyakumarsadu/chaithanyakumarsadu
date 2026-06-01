@@ -71,21 +71,33 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 
 ---
 
-## 💻 Projects
+## 🚀 Featured Projects
 
-### 📈 Blinkit Sales Data Analysis
+### 📊 Blinkit Sales Data Analysis
 
-* Analyzed sales data to identify product performance and customer purchasing trends.
-* Generated business insights using data visualization and forecasting.
-* **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-* **GitHub:** https://github.com/chaithanyakumarsadu/DATA-ANALYSSIS-PYTHON-PROJECT---BLINKIT-ANALYSIS
+🔗 **Repository:** [View Project](https://github.com/chaithanyakumarsadu/DATA-ANALYSSIS-PYTHON-PROJECT---BLINKIT-ANALYSIS)
 
-### 🚗 Electric Vehicle Data Analysis
+📌 Highlights:
 
-* Studied EV adoption patterns across regions and vehicle categories.
-* Performed trend analysis and built interactive visualizations.
-* **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
-* **GitHub:** https://github.com/chaithanyakumarsadu/Electric-Vehicle-Data-
+* Analyzed sales data to uncover product performance trends.
+* Performed data cleaning, EDA, and forecasting.
+* Delivered actionable business insights through visualizations.
+
+🛠️ **Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
+
+---
+
+### ⚡ Electric Vehicle Data Analysis
+
+🔗 **Repository:** [View Project](https://github.com/chaithanyakumarsadu/Electric-Vehicle-Data-)
+
+📌 Highlights:
+
+* Explored EV adoption trends across regions and vehicle categories.
+* Conducted market growth and trend analysis.
+* Created interactive dashboards and visual reports.
+
+🛠️ **Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
 ---
 
 ## 🏆 Achievements
