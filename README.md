@@ -133,15 +133,6 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaithanyakumarsadu&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
