@@ -125,9 +125,9 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cchaithanya252%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:cchaithanya252@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chaithanya06/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaithanya%20Kumar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chaithanya06/)
 [![GitHub](https://img.shields.io/badge/GitHub-chaithanyakumarsadu-black?style=for-the-badge\&logo=github)](https://github.com/chaithanyakumarsadu)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)]([https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME](https://tryhackme.com/p/cchaithanya252))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-cchaithanya252-red?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/cchaithanya252)
 
 </div>
 
@@ -135,12 +135,14 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 
 ## 🏆 Cybersecurity Profiles
 
-| Platform         | Achievement                                                                       |
-| ---------------- | --------------------------------------------------------------------------------- |
-| 🔐 **TryHackMe** | 🥇 Top 15% Ranking • 🎖️ 10 Badges Earned • 🚀 50+ Rooms Solved                   |
-| 💻 **GitHub**    | 📂 Cybersecurity & Data Analytics Projects • 🌱 Continuous Learning & Development |
+| Platform                                                     | Achievement                                                                       |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| 🔐 **[TryHackMe](https://tryhackme.com/p/cchaithanya252)**   | 🥇 Top 15% Ranking • 🎖️ 10 Badges Earned • 🚀 50+ Rooms Solved                   |
+| 💻 **[GitHub](https://github.com/chaithanyakumarsadu)**      | 📂 Cybersecurity & Data Analytics Projects • 🌱 Continuous Learning & Development |
+| 💼 **[LinkedIn](https://www.linkedin.com/in/chaithanya06/)** | 🤝 Professional Networking • Career & Technical Updates                           |
 
 > **"Security is a journey of continuous learning, testing, and improvement."**
+
 
 
 
