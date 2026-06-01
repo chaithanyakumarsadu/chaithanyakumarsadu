@@ -144,11 +144,7 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 ---
 
 
-## 📈 Contribution Graph
 
-[![Chaithanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaithanyakumarsadu\&theme=tokyo-night)](https://github.com/chaithanyakumarsadu)
-
----
 
 ## 🚀 Profile Views
 
