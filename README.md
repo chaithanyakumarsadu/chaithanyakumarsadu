@@ -125,9 +125,9 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cchaithanya252%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:cchaithanya252@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chaithanya06/))
 [![GitHub](https://img.shields.io/badge/GitHub-chaithanyakumarsadu-black?style=for-the-badge\&logo=github)](https://github.com/chaithanyakumarsadu)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)]([https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME](https://tryhackme.com/p/cchaithanya252))
 
 </div>
 
