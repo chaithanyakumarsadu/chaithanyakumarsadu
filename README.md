@@ -121,11 +121,17 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 ---
 ## 📊 GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu\&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=github_dark" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaithanyakumarsadu\&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaithanyakumarsadu&theme=github_dark" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaithanyakumarsadu\&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaithanyakumarsadu&theme=github_dark" />
+</p>
 
 ---
 
