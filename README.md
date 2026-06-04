@@ -119,25 +119,29 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 * Earned 10 TryHackMe badges
 
 ---
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaithanyakumarsadu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyakumarsadu&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaithanyakumarsadu&theme=github-dark-blue&hide_border=true" />
-</p>
+# ⚡ GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=github_dark" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaithanyakumarsadu&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaithanyakumarsadu&theme=github_dark" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanyakumarsadu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyakumarsadu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=chaithanyakumarsadu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=tokyonight"/>
+
+</div>
 
 
 ---
