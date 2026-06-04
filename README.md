@@ -121,28 +121,16 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 ---
 
 
-# ⚡ GitHub Dashboard
+## ⚡ GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=github_dark" width="100%"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaithanyakumarsadu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyakumarsadu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=chaithanyakumarsadu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaithanyakumarsadu&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaithanyakumarsadu&theme=github_dark" width="48%"/>
+</p>
 
 ---
 
