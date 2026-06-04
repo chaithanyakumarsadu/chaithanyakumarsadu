@@ -119,21 +119,28 @@ Passionate about Cybersecurity, Cloud Security, Penetration Testing, and Data An
 * Earned 10 TryHackMe badges
 
 ---
-## 📊 GitHub Activity
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaithanyakumarsadu&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanyakumarsadu&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chaithanyakumarsadu&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaithanyakumarsadu&theme=github_dark" width="100%"/>
+</p>
 
-[![Chaithanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaithanyakumarsadu\&theme=tokyo-night)](https://github.com/chaithanyakumarsadu)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaithanyakumarsadu&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaithanyakumarsadu&theme=github_dark" />
+</p>
 
 
 ---
-
-
-
 
 ## 🚀 Profile Views
 
